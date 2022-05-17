@@ -16,4 +16,4 @@
 [![html-5](https://user-images.githubusercontent.com/69697560/154499317-b1686df8-5dfa-49e2-8e8f-2ac2a7394b07.png)](https://www.w3.org/html/)
 [![css](https://user-images.githubusercontent.com/69697560/154499318-eb37b2da-4c92-4b60-aad8-1f84d3ec1c85.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![bootstrap](https://user-images.githubusercontent.com/69697560/154499323-b6149e6a-40f5-4799-b4ab-20170e97466d.png)](https://getbootstrap.com/)
-![magento](https://user-images.githubusercontent.com/69697560/154505959-0f3c9986-758d-45bb-a040-238c7c59a376.png)
+[![magento](https://user-images.githubusercontent.com/69697560/154505959-0f3c9986-758d-45bb-a040-238c7c59a376.png)](https://magento.com/)
