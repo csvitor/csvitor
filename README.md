@@ -18,4 +18,4 @@
 [![bootstrap](https://user-images.githubusercontent.com/69697560/154499323-b6149e6a-40f5-4799-b4ab-20170e97466d.png)](https://getbootstrap.com/)
 [![magento](https://user-images.githubusercontent.com/69697560/154505959-0f3c9986-758d-45bb-a040-238c7c59a376.png)](https://magento.com/)
 
-![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/csvitor/animation/blob/main/pag.svg)
