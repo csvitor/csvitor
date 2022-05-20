@@ -2,10 +2,12 @@
 
 
 ### Connect with me:
-[![instagram](https://user-images.githubusercontent.com/69697560/154495378-9fd24963-1fab-400a-adcf-415196dd7154.png)](https://www.instagram.com/vitsk8_/) 
-[![linkedin](https://user-images.githubusercontent.com/69697560/154497284-e81a0e8b-ee25-410e-89a4-3b0c1b5faf0f.png)](https://www.linkedin.com/in/vitor-costa-80a71220b/) 
-![discordia](https://user-images.githubusercontent.com/69697560/154505831-d874889e-13f6-43e4-a962-e789a458a241.png)
 
+<div> 
+  <a href="https://www.instagram.com/vitsk8_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: developer.vitorcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-costa-80a71220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ### Languages and Tools:
 
